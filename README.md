@@ -7,7 +7,8 @@
 ## リンク
 
 * [技術評論社（紙版）](https://gihyo.jp/book/2020/978-4-297-11712-2)
+* [技術評論社（PDF版）](https://gihyo.jp/dp/ebook/2020/978-4-297-11713-9)
 * [版元ドットコム](https://www.hanmoto.com/bd/isbn/9784297117122)
 * [アマゾン（紙版）](https://www.amazon.co.jp/dp/4297117126)
+* アマゾン（Kindle版）
 
-電子版は技術評論社からPDF版，アマゾンからKindle版が出る予定です。
