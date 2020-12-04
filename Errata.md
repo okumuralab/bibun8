@@ -24,3 +24,4 @@ PDF版だけの不具合です。
 * p.30 傍注「山本義隆『熱学思想の史的展開』（現代数学社，1987年）より」が一部欠けています。
 * p.245 GFS Neohellenic Mathフォントの出力例が化けています。
 
+![image](https://user-images.githubusercontent.com/3616498/101141239-5c170800-3657-11eb-9c05-8d1a46dfe4d6.png)
