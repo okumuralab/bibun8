@@ -17,3 +17,8 @@
 - \renewcommand{\emph}[1]{{upshape\bfseries #1}}
 + \renewcommand{\emph}[1]{{\upshape\bfseries #1}}
 ```
+## 技術評論社PDFの不具合
+
+* p.30 傍注「山本義隆『熱学思想の史的展開』（現代数学社，1987年）より」が一部欠けています。
+* p.245 GFS Neohellenic Mathフォントの出力例が化けています。
+
