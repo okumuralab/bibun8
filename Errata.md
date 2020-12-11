@@ -24,6 +24,10 @@
 
 * p.349 一番下の「WSLならば」が意味が通じないなど微妙なツッコミの余地があります。
 
+### 付録C
+
+* p.364 「fot」の語源：Karl Berry (2020-12-11) によれば「David Fuchs confirms that "fot" is meant to suggest a "photograph" (of the screen).」
+
 ### 付録DVD-ROM
 
 * サポートページへのリンクがおかしいようです。
