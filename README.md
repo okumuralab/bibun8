@@ -17,3 +17,4 @@ Windowsへのインストールでエラーになる場合は，
 * [アマゾン（Kindleプリント・レプリカ版）](https://www.amazon.co.jp/dp/B08MZ9YZS5)
 * [アマゾン（Kindle画像版）](https://www.amazon.co.jp/dp/B08MZ98Z1Q)
 
+ちなみにMacでヒラギノ設定を簡単にするための [bibunsho7-patch](https://github.com/munepi/bibunsho7-patch/releases) はBig SurにもTeX Live 2021にも対応したようです。
